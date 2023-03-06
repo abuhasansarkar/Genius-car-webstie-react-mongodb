@@ -1,0 +1,29 @@
+[
+     {
+         "id": 1,
+         "img": "https://i.ibb.co/74d3fJr/1.jpg",
+         "title": "Jhone Due",
+          "expertis": "Web Desinger",
+         "facebook": "http://facebook.com" ,
+         "twitter": "http://twitter.com" ,
+         "linkedin": "http://linkedin.com" 
+     },
+     {
+         "id": 1,
+         "img": "https://i.ibb.co/dkfn7zr/2.jpg",
+         "title": "Zemes Zordan",
+         "expertis": "Web Developer",
+         "facebook": "http://facebook.com" ,
+         "twitter": "http://twitter.com" ,
+         "linkedin": "http://linkedin.com" 
+     },
+     {
+         "id": 1,
+         "img": "https://i.ibb.co/DDwPZGQ/3.jpg",
+         "title": "Hikbarl Hulk",
+         "expertis": "Web Programmer",
+         "facebook": "http://facebook.com" ,
+         "twitter": "http://twitter.com" ,
+         "linkedin": "http://linkedin.com" 
+     }
+]
